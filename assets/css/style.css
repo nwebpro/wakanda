@@ -17,6 +17,10 @@ body{
 a{
     text-decoration: none;
 }
+ul{
+    list-style-type: none;
+    padding: 0px;
+}
 .wakanda-btn-style{
     padding: 3px 28px;
     background-color: #0077C0;
@@ -90,4 +94,24 @@ a{
     line-height: 29px;
     color: #fafafa;
     margin-bottom: 16px;
+}
+/* ==================================
+    Tutorial Section Style
+===================================== */
+.tutorial-sec-area{
+    padding: 69px 0px 73px;
+}
+.tutorial-text h2{
+    margin-bottom: 33px;
+}
+.tutorial-info-item{
+    margin-bottom: 16px;
+}
+.ti-number{
+    text-align: center;
+    background-color: #cfeeff;
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    font-weight: 700;
 }
