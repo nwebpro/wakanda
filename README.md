@@ -6,4 +6,4 @@
 
 ## 🔥[Live Demo](https://nwebpro.github.io/wakanda/)
 
-![Wakanda Preview](/wakanda/thumbnail-lg.jpg)
+<img src="./assets/images/thumbnail-lg.jpg"/>
