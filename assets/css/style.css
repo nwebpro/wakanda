@@ -69,7 +69,8 @@ ul{
     color: #fafafa;
 }
 .feature-sec-info h3,
-.testimonial-sec-info h3{
+.testimonial-sec-info h3,
+.cat-text h3{
     font-weight: 600;
     font-size: 16px;
     line-height: 19px;
@@ -156,4 +157,23 @@ ul{
 .fa-star{
     font-size: 16px;
     color: #FFC806;
+}
+/* ==================================
+    Testimonial Section Style
+===================================== */
+.cta-sec-area{
+    padding: 70px 0px;
+    color: #fff;
+}
+.cat-sec-wrap{
+    background-color: #0077C0;
+}
+.cat-text h2{
+    margin-bottom: 24px;
+    color: #fff;
+    padding-right: 50px;
+}
+.cat-btn-style{
+    background-color: #fff;
+    color: #0077C0;
 }
