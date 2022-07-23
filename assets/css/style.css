@@ -1,0 +1,58 @@
+/* ==================================
+    Google Font And Utilities CSS
+===================================== */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+*, html{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000;
+}
+a{
+    text-decoration: none;
+}
+.wakanda-btn-style{
+    padding: 3px 28px;
+    background-color: #0077C0;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 40px;
+    color: #fff;
+}
+.wakanda-heading-style{
+    color: #000;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -0.5px;
+}
+/* ==================================
+    Hero Section Style
+===================================== */
+.hero-sec-area{
+    padding-top: 43px;
+}
+.hero-text h1{
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 75px;
+    letter-spacing: -0.5px;
+    color: #000;
+    margin-bottom: 27px;
+}
+.hero-text p{
+    padding-right: 170px;
+    margin-bottom: 32px;
+}
+/* ==================================
+    Social Proof Section Style
+===================================== */
+.social-proof{
+    padding: 96px 0px;
+}
